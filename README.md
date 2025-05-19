@@ -12,6 +12,11 @@ Desenvolver um sistema que:
 - Gere um relatório simples de conformidade;
 - Inclua diferenciais como acessibilidade e suporte a múltiplos idiomas.
 
+  ## Exemplo de Uso  
+1. Usuário cadastra uma regra tributária para Espanha (alíquota: 21%).  
+2. Sistema calcula automaticamente o IVA para uma transação de €100 → €21 de imposto.  
+3. Relatório gerado em PDF (ou tela) com os dados.  
+
 ---
 
 ## 🛠️ Tecnologias usadas
