@@ -70,12 +70,12 @@ Durante esse projeto, aprendi e pratiquei:
 
 ## 📁 Estrutura do Projeto
 
-├── conformidade_tributaria/
-│ ├── models.py # Modelos de regras e transações
-│ ├── serializers.py # Validações e formatos de entrada/saída
-│ ├── views.py # Lógica principal da aplicação
-│ ├── urls.py # Rotas da aplicação
-│ └── tests/ # Testes automatizados (em progresso)
+conformidade_tributaria/
+- models.py # Modelos de regras e transações
+- serializers.py # Validações e formatos de entrada/saída
+- views.py # Lógica principal da aplicação
+- urls.py # Rotas da aplicação
+- tests/ # Testes automatizados (em progresso)
 
 ---
 
