@@ -77,8 +77,6 @@ conformidade_tributaria/
 - urls.py # Rotas da aplicação
 - tests/ # Testes automatizados (em progresso)
 
----
-
 
 ---
 
