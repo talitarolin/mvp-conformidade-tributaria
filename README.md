@@ -83,6 +83,6 @@ conformidade_tributaria/
 ## 🚀 Como rodar localmente
 
 ```bash
-git clone [https://github.com/seuuser/conformidade-tributaria-mvp.git](https://github.com/talitarolin/mvp-conformidade-tributaria)
+git clone https://github.com/talitarolin/mvp-conformidade-tributaria
 cd conformidade-tributaria-mvp
 python manage.py runserver
